@@ -7,7 +7,7 @@ console.log(typeof valueInNumber);
 console.log(typeof valueInNumber);
 // "33" => 33
 // "33abc " =>nan
-
+ 
 
 
 
